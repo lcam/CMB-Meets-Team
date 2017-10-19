@@ -17,7 +17,7 @@ Developed by: Leon Cam
 4. [Butterknife](http://jakewharton.github.io/butterknife/) - Bind Android views and callbacks to fields and methods
 5. [Dagger](https://github.com/google/dagger) - Dependency injector for Android and Java
 6. [Mockito](https://github.com/mockito/mockito) - Mocking framework for unit tests
-7. [Espresso](https://developer.android.com/training/testing/espresso/index.html) - Android UI testAPI
+7. [Espresso](https://developer.android.com/training/testing/espresso/index.html) - Android UI test API
 
 ## Screenshots
 
