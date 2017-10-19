@@ -21,8 +21,8 @@ Developed by: Leon Cam
 
 ## Screenshots
 
-<img src='http://i.imgur.com/C0KelO7.png' title='Screenshots' width='500px' alt='Screenshots' />
-<img src='http://i.imgur.com/5bwYSEh.png' title='Screenshots' width='500px' alt='Screenshots' />
+<img src='http://i.imgur.com/C0KelO7.png' title='Screenshots' width='300px' alt='Screenshots' />
+<img src='http://i.imgur.com/5bwYSEh.png' title='Screenshots' width='300px' alt='Screenshots' />
 
 ## License
 
